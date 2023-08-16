@@ -128,3 +128,12 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -  Mean/Median Imputation: Replace null values with the mean or median of the non-null values in the same column. This method is suitable for numerical data.
   -  Mode Imputation: Replace null values with the mode (most frequent value) of the non-null values in the column. This method is suitable for categorical data.
   -  Interpolation: For time-series or sequential data, null values can be estimated using interpolation methods like linear interpolation.
+
+## Day 12 - Matplotlib Library
+- label, title, xlabel, ylabel, xticks, yticks, plt.show()
+-  linewidth, marker, markersize, and markeredgecolor, shorhand notation, saving the graph
+- Bargraph
+- Piechart
+- Histograms
+- Box and Whisker Plots
+- Visualized the gas_prices,csv and fifa_data.csv data using Matplotlib
