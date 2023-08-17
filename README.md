@@ -137,3 +137,16 @@ Imputation involves replacing null values with estimated or inferred values. Thi
 - Histograms
 - Box and Whisker Plots
 - Visualized the gas_prices,csv and fifa_data.csv data using Matplotlib
+
+## Day 13 - Seaborn Library
+  - 1️⃣ Line Plot : Explored trends and relationships between variables over time or categories. Customized colors, markers, and labels for clear insights.
+
+  - 2️⃣ Bar Plot : Learned the art of comparing categorical data and showcasing frequency distributions. Leveraged hues and stacked bars to enhance understanding.
+
+  - 3️⃣ Pair Plot : Discovered the power of visualizing pairwise relationships among multiple numerical variables.
+
+  - 4️⃣ Dist Plot : Combined histograms and kernel density estimates for insightful data distribution visualization. Customized colors, line styles, and plot types to convey information effectively.
+
+  - 5️⃣ Scatter Plot : Relationships between two numerical variables with the elegance of scatter plots. Used colors, markers, and sizes to enhance visual representation.
+
+  - 6️⃣ Heatmap : Embraced the world of 2D matrix data visualization using colors to highlight correlations, relationships, and patterns. A fantastic tool for understanding large datasets.
