@@ -151,4 +151,13 @@ Imputation involves replacing null values with estimated or inferred values. Thi
 
   - 6️⃣ Heatmap : Embraced the world of 2D matrix data visualization using colors to highlight correlations, relationships, and patterns. A fantastic tool for understanding large datasets.
 
-## Day 14 - Ongoing
+## Day 14 - Linear Algebra
+  - System of Sentences, System of Information
+  - Sytem of Equations
+  - Linear and Non Linear Equations
+  - System of Linear Equations as Lines
+  - Linear Dependence and Linear Independence
+  - Relation of Determinant and Singularity
+
+## Day 15 - Ongoing
+  
