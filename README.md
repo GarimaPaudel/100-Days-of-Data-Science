@@ -165,4 +165,9 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -  Solve a system of linear equations by calculating the matrix in the row echelon form.
   -  Calculate the rank of a system of linear equations and use the rank to determine the number of solutions of the system.
 
-## Day 16 - Ongoing
+## Day 16 - Linear Algebra
+  -  Perform common operations on vectors like sum, difference, and dot product.
+  -  Multiply matrices and vectors.
+  -  Represent a system of linear equations as a linear transformation on a vector.
+  -  Calculate the inverse of a matrix, if it exists.
+  -  Neural Networks and Matrices
