@@ -172,4 +172,8 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -  Calculate the inverse of a matrix, if it exists.
   -  Neural Networks and Matrices
 
-## Day 17 - Ongoing
+## Day 17 - Linear Algebra
+  -  Interpret the determinant of a matrix as an area and calculate determinant of an inverse of a matrix and a product of matrices.
+  -  Determine the bases and span of vectors.
+  -   Find eigenbases for a special type of linear transformations commonly used in machine learning.
+  -   Calculate the eignenvalues and eigenvectors of a linear transformation (matrix).
