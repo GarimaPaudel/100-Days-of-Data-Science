@@ -171,3 +171,5 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -  Represent a system of linear equations as a linear transformation on a vector.
   -  Calculate the inverse of a matrix, if it exists.
   -  Neural Networks and Matrices
+
+## Day 17 - Ongoing
