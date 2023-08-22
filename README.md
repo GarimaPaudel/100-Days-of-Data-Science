@@ -177,3 +177,5 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -  Determine the bases and span of vectors.
   -   Find eigenbases for a special type of linear transformations commonly used in machine learning.
   -   Calculate the eignenvalues and eigenvectors of a linear transformation (matrix).
+
+## Day 18 - Ongoing
