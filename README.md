@@ -152,6 +152,7 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   - 6️⃣ Heatmap : Embraced the world of 2D matrix data visualization using colors to highlight correlations, relationships, and patterns. A fantastic tool for understanding large datasets.
 
 ## Day 14 - Linear Algebra
+### Followed Course "Linear Algebra for Machine Learning and Data Science" by DeepLearning.AI : [Link to course](https://coursera.org/share/4ba5d65a3df9d87e99e10296a3030624)
   - System of Sentences, System of Information
   - Sytem of Equations
   - Linear and Non Linear Equations
@@ -178,4 +179,22 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -   Find eigenbases for a special type of linear transformations commonly used in machine learning.
   -   Calculate the eignenvalues and eigenvectors of a linear transformation (matrix).
 
-## Day 18 - Ongoing
+## Day 18 - Calculus
+### Followed Course "Calculus for Machine Learning and Data Science" by DeepLearning.AI : [Link to course](https://coursera.org/share/0eb4398a2ae0be79a014cccf78cdb366)
+  -  Machine Learning motivation
+  -  Motivation to derivatives
+  -  Derivatives and Tangents
+  -  Slopes, maxima and minima
+  -  Concept of Derivatives
+  -  Approximation of Derivatives
+  -  Derivatives and their notation
+  -  and some common derivatives
+
+## Day 19 - Calculus
+  -
+  -
+  -
+  -
+  -
+  -
+  
