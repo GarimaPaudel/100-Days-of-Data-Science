@@ -191,10 +191,9 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -  and some common derivatives
 
 ## Day 19 - Calculus
-  -
-  -
-  -
-  -
-  -
-  -
+  - Derivative of trigonometric functions
+  - Meaning of the Exponential(e)
+  - The derivative of e^x, logx
+  - Existence of the derivative
+ 
   
