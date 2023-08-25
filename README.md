@@ -195,5 +195,11 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   - Meaning of the Exponential(e)
   - The derivative of e^x, logx
   - Existence of the derivative
- 
+
+## Day 20 - Ongoing
+ -
+ -
+ -
+ -
+ -
   
