@@ -196,11 +196,15 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   - The derivative of e^x, logx
   - Existence of the derivative
 
-## Day 20 - Ongoing
- -
- -
- -
- -
- -
- -
+## Day 20 - Calculus
+ - 🔶 Properties of Derivatives:
+    - Multiplication By scalars
+    - The Sum rule
+    - The Product Rule
+    - The Chain Rule
+ - 🔶 Optimization
+    -  Introduction to Optimization
+    - Optimization of squared loss: one powerline problem, the two powerline problem, and the three powerline problem.
+
+ ## Day 21 - Ongoing
   
