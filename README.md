@@ -206,5 +206,11 @@ Imputation involves replacing null values with estimated or inferred values. Thi
     -  Introduction to Optimization
     - Optimization of squared loss: one powerline problem, the two powerline problem, and the three powerline problem.
 
- ## Day 21 - Ongoing
+ ## Day 21 - Calculus
+  - 1️⃣ Optimization of Log Loss
+  - 2️⃣ Tangent Planes
+  - 3️⃣ Partial Derivatives
+  - 4️⃣ Gradients
+  - 5️⃣ Gradients and maxima/minima
+  - 6️⃣ Optimization with gradients
   
