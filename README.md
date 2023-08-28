@@ -213,4 +213,6 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   - 4️⃣ Gradients
   - 5️⃣ Gradients and maxima/minima
   - 6️⃣ Optimization with gradients
+
+## Day 22 - Ongoing
   
