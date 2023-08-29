@@ -214,8 +214,10 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   - 5️⃣ Gradients and maxima/minima
   - 6️⃣ Optimization with gradients
 
-## Day 22 - Ongoing
+## Day 22 - Calculus
   - 1️⃣ Optimization using Gradient Descent in One Variable
   - 2️⃣ Optimization using Gradient Descent in Two Variables
   - 3️⃣ Optimization using Gradient Descent - Least Square
   - 4️⃣ Optimization using Gradient Descent - Least Square with Multiple Observations
+
+## Day 23 - Ongoing
