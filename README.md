@@ -220,4 +220,7 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   - 3️⃣ Optimization using Gradient Descent - Least Square
   - 4️⃣ Optimization using Gradient Descent - Least Square with Multiple Observations
 
-## Day 23 - Ongoing
+## Day 23 - Calculus
+  -  Regression with a perceptron
+  -  Regression with Percepton - Loss Function
+  -  Regression with Percepton - Gradient Descent
