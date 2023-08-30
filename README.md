@@ -224,3 +224,5 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   -  Regression with a perceptron
   -  Regression with Percepton - Loss Function
   -  Regression with Percepton - Gradient Descent
+
+## Day 24 - Ongoing
