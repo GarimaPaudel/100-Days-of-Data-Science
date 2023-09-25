@@ -231,9 +231,29 @@ Imputation involves replacing null values with estimated or inferred values. Thi
   - 3️⃣ Classification with Perceptron - Gradient Descent
 
 ## Day 25 - Ongoing
-  -
-  -
-  -
-  -
-  -
-  -
+  - 1. Classification with Neural Network
+  - 2. Classification with a Neural Network - Minimizing log-loss
+  - 3. Gradient Descent and Backpropagation
+  - 4. Netwon's Method
+  - 5. An example of Netwon's method
+  - 6. The second derivative and it's concept
+  - 7. The Hessian and concavity
+  - 8. Newton's Method for two variables
+       
+## Day 26 - Probability and Statistics
+  - 1. Probability (P): At its core, probability quantifies the likelihood of an event occurring. It's often represented as a value between 0 (impossible) and 1 (certain).
+P(A) = Number of favorable outcomes / Total possible outcomes
+
+  - 2. Complement of Probability (P'): Sometimes, it's easier to calculate the probability of an event not happening. The complement of probability is a simple way to do that.
+Formula: P'(A) = 1 - P(A)
+
+  - 3. Sum of Probabilities of Joint Events: When you're interested in two events happening together (A and B), the joint probability can be calculated using the product of their individual probabilities.
+Formula: P(A and B) = P(A) * P(B)
+
+  - 4. Sum of Probabilities of Disjoint (Mutually Exclusive) Events: For events that cannot happen simultaneously, their combined probability is simply the sum of their individual probabilities.
+Formula: P(A or B) = P(A) + P(B)
+
+  - 5. Union of Events A and B (A ∪ B): The probability of either event A or event B (or both) occurring is represented by the union of events.
+Formula: P(A ∪ B) = P(A) + P(B) - P(A and B)
+
+  - 6. Independence: Events A and B are considered independent if the occurrence (or non-occurrence) of one doesn't affect the other's probability. In this case, joint probability simplifies.
