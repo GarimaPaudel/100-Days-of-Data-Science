@@ -257,3 +257,17 @@ Formula: P(A or B) = P(A) + P(B)
 Formula: P(A ∪ B) = P(A) + P(B) - P(A and B)
 
   - 6. Independence: Events A and B are considered independent if the occurrence (or non-occurrence) of one doesn't affect the other's probability. In this case, joint probability simplifies.
+
+## Day 27
+ - 1.Probability Distributions (Discrete) 
+ - 2. Binomial Distribution
+ - 3. Binomial Coefficient
+ - 4. Bernoulli Distribution
+ - 5. Probability Distributions (Continuous)
+ - 6. Probability Density Function 
+ - 7. Cumulative Distribution Function
+ - 8. Uniform Distribution
+ - 9. Normal Distribution
+ - 10. Chi-Squared Distribution
+
+## Day 28
