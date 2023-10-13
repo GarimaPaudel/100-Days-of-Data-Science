@@ -271,3 +271,8 @@ Formula: P(A ∪ B) = P(A) + P(B) - P(A and B)
  - 10. Chi-Squared Distribution
 
 ## Day 28
+
+## Day 29
+
+## Day 30 - Linear Regression
+- Stock Price Prediction using Simple Linear Regression
