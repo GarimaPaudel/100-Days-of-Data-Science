@@ -276,3 +276,7 @@ Formula: P(A ∪ B) = P(A) + P(B) - P(A and B)
 
 ## Day 30 - Linear Regression
 - Stock Price Prediction using Simple Linear Regression
+
+## Day 31 - Logistic Regression
+ - Classification into Iris Versicolor and Iris Virginica
+ - Trained the Logistic Regression model with the best hyperparameters on the training data.
