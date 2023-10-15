@@ -280,3 +280,14 @@ Formula: P(A ∪ B) = P(A) + P(B) - P(A and B)
 ## Day 31 - Logistic Regression
  - Classification into Iris Versicolor and Iris Virginica
  - Trained the Logistic Regression model with the best hyperparameters on the training data.
+
+## Day 32 - Decision Tree Classifier
+  1. can be used for both Classification and Regression problems.
+  2. Splitting Decisions:  Gini Impurity and Entropy
+  3. Information Gain: Decision Trees aim to choose the feature that provides the most valuable information to differentiate between classes or make predictions.
+  4. Pure vs. Impure Split: 
+      - Pure split : all the data in a node belongs to a single class.
+      - Impure splits : mixed classes that need further branching.
+  5. Pruning Strategies: post-pruning and pre-pruning. 
+
+
