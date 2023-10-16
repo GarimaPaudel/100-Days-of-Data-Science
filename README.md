@@ -290,4 +290,11 @@ Formula: P(A ∪ B) = P(A) + P(B) - P(A and B)
       - Impure splits : mixed classes that need further branching.
   5. Pruning Strategies: post-pruning and pre-pruning. 
 
+  ## Day 33 - Decision Tree Regressor
+   - Decision Tree Regressor is a model for predicting continuous values.
+   - It uses a tree-like structure to make predictions based on feature splits. 
+   - It can be prone to overfitting but can be pruned to control complexity.
+   - Decision Trees are interpretable, handle non-linearity, and are robust to outliers.
+   - They are used in various applications, and can be enhanced through ensemble methods like Random Forests.
+
 
