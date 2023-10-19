@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Text Summarization</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 p-4">
+    <div class="max-w-md mx-auto bg-white p-4 rounded shadow-lg">
+        <h1 class="text-2xl font-semibold mb-4">Text Summarization</h1>
+        <form method="POST" action="/summarize">
+            <p class="text-gray-700">Enter the text you want to summarize and click the "Summarize" button.</p>
+
+            <textarea name="input_text" class="w-full h-40 p-2 border rounded mt-2">{{ request.form['input_text'] }}</textarea>
+
+            <button class="bg-blue-500 text-white px-4 py-2 mt-2 rounded hover:bg-blue-700">Summarize</button>
+        </form>
+
+        {% if summary %}
+            <h2 class="text-xl font-semibold mt-4">Summary:</h2>
+            <p class="border p-2 rounded mt-2">{{ summary }}</p>
+            <p class="text-gray-700 mt-2">Original Text Length: {{ doc_len }} characters</p>
+            <p class="text-gray-700">Summarized Text Length: {{ summarized_len }} characters</p>
+        {% endif %}
+    </div>
+</body>
+</html>
