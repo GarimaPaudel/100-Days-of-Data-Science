@@ -302,4 +302,10 @@ Formula: P(A ∪ B) = P(A) + P(B) - P(A and B)
 ## Day 35 - Deployment
    - Deployed the text Summarizer Project using Flask
 
+## Day 36 - Random Forest Algorithm
+   - Ensemble Learning: Combines multiple decision trees to improve prediction accuracy and reduce overfitting.
+   - Random Sampling: Uses bootstrapping to create diverse subsets of the training data and random feature selection, which enhances the robustness of individual trees.
+   - Classification and Regression: Random Forest is versatile and can be used for both classification and regression tasks.
+   - Feature Importance: Can determine the importance of features, helping to identify which variables have the most influence on predictions. This is valuable for feature selection and data analysis.
+
 
