@@ -10,7 +10,8 @@ Given a dataset with m observations and n features, the first step is to standar
 
 Next, compute the covariance matrix (C) for the standardized data. The covariance between two features i and j is given by:
 
-\[cov(X_i, X_j) = \frac{\sum_{k=1}^{m}(X_i^k - \bar{X}_i)(X_j^k - \bar{X}_j)}{m-1}\]
+![Equation 2](Eqn2.png)
+
 
 The covariance matrix (C) is an n*n matrix where each element Cij is the covariance between features i and j.
 
@@ -18,7 +19,8 @@ The covariance matrix (C) is an n*n matrix where each element Cij is the covaria
 
 Find the eigenvectors (v) and eigenvalues (λ) of the covariance matrix:
 
-\[C \cdot v = λ \cdot v\]
+![Equation 3](Eqn3.png)
+
 
 ## Step 4: Sort Eigenvectors by Eigenvalues
 
@@ -28,13 +30,13 @@ Sort the eigenvectors in descending order based on their corresponding eigenvalu
 
 Choose the top k eigenvectors to form the transformation matrix W, where k is the desired number of dimensions in the reduced space.
 
-\[W = \begin{bmatrix}v_1 & v_2 & \ldots & v_k\end{bmatrix}\]
+![Equation 4](Eqn4.png)
 
 ## Step 6: Transform the Data
 
 Multiply the standardized data (Z) by the transformation matrix (W) to obtain the new set of features (Y) in the reduced dimensional space.
 
-\[Y = Z \cdot W\]
+![Equation 5](Eqn5.png)
 
 ## Final Note
 
